@@ -1,0 +1,5 @@
+﻿  Chapter15Assignment.cpp
+D:\School\SPC\6 - Spring 2022\C++ - Professor Darlene Westberg\Assignments\Chapter15Assignment\Chapter15Assignment.cpp(207,15): warning C4552: '+': result of expression not used
+D:\School\SPC\6 - Spring 2022\C++ - Professor Darlene Westberg\Assignments\Chapter15Assignment\Chapter15Assignment.cpp(288,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\School\SPC\6 - Spring 2022\C++ - Professor Darlene Westberg\Assignments\Chapter15Assignment\Chapter15Assignment.cpp(325,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Chapter15Assignment.vcxproj -> D:\School\SPC\6 - Spring 2022\C++ - Professor Darlene Westberg\Assignments\Chapter15Assignment\x64\Debug\Chapter15Assignment.exe
